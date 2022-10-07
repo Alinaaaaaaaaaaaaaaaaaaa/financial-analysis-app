@@ -320,3 +320,4 @@ class Grafic(tk.Frame):
 app = App()
 app.resizable(width=False, height=False)
 app.mainloop()
+
